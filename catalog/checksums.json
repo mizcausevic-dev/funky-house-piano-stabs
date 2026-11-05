@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1927,
+      "sha256": "e87190e93076a1812121084a3c857003506bfc85e737e48effbcc27efe6a8108"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 252667,
+      "sha256": "5fcca94eb33bb5733d11e155bc6d8dbe4b78750c92259626f974a898ed7a09c9"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2222422,
+      "sha256": "10a7f6c85205f1988ffb97166318dcdd230d3bd1138a1e60aa7c187be8d58f24"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 296,
+      "sha256": "c938a7a1d2163e0a6c2209e747bc899f85b43bb3525542453b35a1f53361ad0a"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "504308edf73e7f4c1f0cb621538cb20cde3e2d21738f6fa72f4bd6935ea93482"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 276079,
+      "sha256": "f705cebd30280bf8bb62ba30ec6dfaa3081ef2084bdcb38892b1ebf2c25e2ee5"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 748,
+      "sha256": "b80d3ef635286a1e7a0255edb77dd4e2f9a209aba3c1df2ffe545209d64f146a"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 748,
+      "sha256": "b80d3ef635286a1e7a0255edb77dd4e2f9a209aba3c1df2ffe545209d64f146a"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "12d4405bca9d629c36f63ca682e42d2b505aac878e5f2cf6c8b422af5d6b17b5"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25046,
+      "sha256": "a81cd596d32e39d9261a3c23e939fd72936289ec448c6403ea92720bfd8aa6e0"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103678,
+      "sha256": "52a7fa3c3d8dc9d1d9b2aafefc3214df53debdbcc558678c4fefaefe54e6f3b7"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2495,
+      "sha256": "d0a6f2d64586e872853c095083ce530e16875ed7ae09769b6e50de2c8ef07785"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "67ba54196680143caa68df6927a336cda7c307bccb477195c4cee1b75360cf7c"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1211,
+      "sha256": "d7474189717ac8eeff3d676d06a9aee1d916795a0e16c0528dd7a597ada2af83"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 385,
+      "sha256": "df041c935eea8c092fc1e30de6bd8fe9f2293fa3030bf0fc0f803438faa50fe5"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z0301-melody-01.mid",
+      "bytes": 164,
+      "sha256": "d18c9eaf831104c74a056ad0d9c33da606c736dc9111f0e5e5f456b27b06f203"
+    },
+    {
+      "path": "clips/z0301-melody-02.mid",
+      "bytes": 164,
+      "sha256": "045fc625f3a241e6271de21019601e55d4f7861c9b033d03ad97f3434aa28727"
+    },
+    {
+      "path": "clips/z0301-melody-03.mid",
+      "bytes": 120,
+      "sha256": "3cc0f614bf562c237e48a2dea6c15d425cae2b8a7fb261676b407a8d1cd6a673"
+    },
+    {
+      "path": "clips/z0301-melody-04.mid",
+      "bytes": 121,
+      "sha256": "6adfee10fecde69adbc6bdf805b280ef1f24383a2984a51f73073f9a49d5fd4b"
+    },
+    {
+      "path": "clips/z0302-melody-01.mid",
+      "bytes": 165,
+      "sha256": "33b8508110d11fa0f96701f1fe2182164f0f4e9ab25c1eba9180d565b15cf5ee"
+    },
+    {
+      "path": "clips/z0302-melody-02.mid",
+      "bytes": 163,
+      "sha256": "90b26db6ecad22977e7ff93a177bc6d9ad94fac2204062858df9f7d6cede626a"
+    },
+    {
+      "path": "clips/z0302-melody-03.mid",
+      "bytes": 120,
+      "sha256": "e4d4b2e32226ac48331aba51c5b754067a2d8447fa5f76879794a7e4ce29ad2a"
+    },
+    {
+      "path": "clips/z0302-melody-04.mid",
+      "bytes": 121,
+      "sha256": "30fa9519fb57dbbc39afc34c58a6a8e388815f09088bc98ec22a9f76f87d4180"
+    },
+    {
+      "path": "clips/z0303-melody-01.mid",
+      "bytes": 164,
+      "sha256": "d676dbfa7e241acecc1514564de5039c2c57996024cc1f4ed7ca9ba716b28dd5"
+    },
+    {
+      "path": "clips/z0303-melody-02.mid",
+      "bytes": 164,
+      "sha256": "eabad84bff8823a4c294a2cb7cb50df3fad552ef0d9cf91190132ac3dfb2ef84"
+    },
+    {
+      "path": "clips/z0303-melody-03.mid",
+      "bytes": 103,
+      "sha256": "dce58651b0126eb5c3390d49ae893aa0d202c3a3a8e314f52345744acd6f9747"
+    },
+    {
+      "path": "clips/z0303-melody-04.mid",
+      "bytes": 104,
+      "sha256": "ca705f476f7a6bf858daa3adb6cb792670edd7b8b6b0b27b4ecb4c2761c8eae9"
+    },
+    {
+      "path": "clips/z0304-melody-01.mid",
+      "bytes": 163,
+      "sha256": "9fc3e6a17420bae0f5b19b35e0adee21ace9e50c174ed5efabfc445c9de56f56"
+    },
+    {
+      "path": "clips/z0304-melody-02.mid",
+      "bytes": 163,
+      "sha256": "e1d492e74ba95d7b7b9a5a8c9cfed2c258601f3cb000e7ea81eec5808e51a17a"
+    },
+    {
+      "path": "clips/z0304-melody-03.mid",
+      "bytes": 105,
+      "sha256": "75276340698fdd1c0f13cd3d7033c4589f05db89e81ec0747367f8771e20903e"
+    },
+    {
+      "path": "clips/z0304-melody-04.mid",
+      "bytes": 105,
+      "sha256": "ffdf1baf881e8ccb8aa7f352f9607a6a6b14e35f5670ce7842c1ea12dee25de5"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 433,
+      "sha256": "b76c32a95ad9f7d8e24089dd778f3ed518c84a3314465a845e5bb477c2e1adc4"
+    },
+    {
+      "path": "downloads/funky-house-piano-stabs-midi.zip",
+      "bytes": 31756,
+      "sha256": "6f06d12de9a54f595c26a4cbdc9eda5da431a8e7a0aa6a4e87a5397f6b34b5ac"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2806,
+      "sha256": "ef0b55fa20adf69f91755d85d74140dd4d78cf95bae58977e273caa4b44e5634"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34296,
+      "sha256": "bfbc5b2cf6a702efc2ab3071c6322370141d8d18653ccfd980cc64e7c8717b2c"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 227090,
+      "sha256": "3101a659c2e1257c74895737d4e2ec2e2849d5d079ea609db87b8088a014423f"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 894562,
+      "sha256": "69084d71cf869be7f3d9dd330b3ac2eace909136f05aab3826e7f2d9a44a8807"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1226,
+      "sha256": "6b05db4e7703db3cdcfb9edb9f120ed79b054a89f4040800247c44c2bc80bb33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9996,
+      "sha256": "bef20a07b3ca0fc664160f479c938768cf46870eb821ac441f4db823a65f9f70"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "272c57733854aff938c629392a0ec997d5a33130478f7cad4d80f52174c3a5e3"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d7628f3ee2a18d80ed2ad94e30b6237d0db82149900e14d9073d2921c3ece553"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "1bbbf8d67c5a3da6608f91438bfd19d3be240a9d320e9d107c79578efe9c24af"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "d3e86fe3be1a7902fe26377a1970c0d4908a2e97ca521c348f5c75b2f0b91b16"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af208f37d4ceba8868552224b4ad0f080adaf5fbcd1d76ee83a3ce7090862cc"
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/z0301-funky-house-piano-stabs-opening-combined.mid",
+      "bytes": 6021,
+      "sha256": "bd9ad79fb32354d3542408c9b5204317c25b830d1975aa775be19dae98686834"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9911d5e158ef8cc3c73624caa8993a1282182d21f2f44e24e0e7cb4822d3e1ca"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3b4fcbf860eafa04f153cde01e9d43adb7f4fc2901983c529153fdd535052fd7"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "e60d7661ae609b1dd8abb2c33179b9c9ebb1a721588f220d2bd9faffdd9d7a2b"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b7d509b6c4f19110bc0d10a4c69e6a698abc3d18e2e0855e961ff2e70cc6795a"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "40ddfad9cc806eb35356a8667d74a12b7961291fafd9e5dddf88f9f5fb8556cb"
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/z0302-funky-house-piano-stabs-variation-combined.mid",
+      "bytes": 6021,
+      "sha256": "cf6859612f09808c974d6d0c51b0970ff01857d5a9b44a86f8fbe8281f1346b2"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "1ac013208ac3961dba5248c4735f4dda146c3edeea84b75195be0266344f1b9d"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "288f91ab17c7775d67b0d2ecec957bcceec4e3416844c7e3942a8e476a4aa2df"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "a31eb850186e09f8452eea624d690176180f30a1dbc8b8e9d4ea223e4f289530"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "4ddcd55e5a409df5f2e52e271809654f3d6a0f365672dd393d8440cc0d0546bc"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e0799586c6971edf853c533699c2ade8fa1f116b13513b55cd9b316a424740b"
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/z0303-funky-house-piano-stabs-contrast-combined.mid",
+      "bytes": 5987,
+      "sha256": "77c0ad52c631f9b672b4e6a33097ff4966457216f2cc6e4357ee2b2d08122897"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "83ffe1b2f0e2824f44932bbb744d251d3b44fe54459d60a43099a462dba015c3"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "676e65fe77d732b1392924e60c91041857749dcfad78fcf145eabeb979bafeaf"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/principal_motif.mid",
+      "bytes": 767,
+      "sha256": "93d4e2ba5ff6c1d589602858389eaa3da19329015ce589d05d3cea7acd3884f3"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "3e95df608eb89419a43d1cca5acd84d06122ad65b78d96e3e7750dd275472b85"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bf8097c8623b26afb8fc854e12e91f4e5ed9ee1d8511655d4f10c28c00a2c259"
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/z0304-funky-house-piano-stabs-return-combined.mid",
+      "bytes": 5989,
+      "sha256": "71a3ca3e05f934699c7fd696b44a196278c4d01fa26df6ac34ce95acc4b2d489"
+    },
+    {
+      "path": "preview/funky-house-piano-stabs-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "a953668d0f9068515bf7d3878c06b86df2a9eddd3c3ca19abfef1b74b7e85580"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1179,
+      "sha256": "53c838c62992623e987e1ac73eb30a47ea0a64a00abef4619995897f68aaa5bb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3981,
+      "sha256": "3667f6cdbd32cf05f6a2dea7895068307fcbe47c673a523753f943ddff41dd1e"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 226,
+      "sha256": "a0b8c44aa0e777c029caa7bfc4c18f4d64ae71529d05438bb09bff519699b049"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 286510,
+      "sha256": "003bdd10569f00d3a4290e5f1a578d34bd9b86c7fbd033b48434288eaea489c6"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 251634,
+      "sha256": "44a6e5764859a96f1d46c9538bcf56311b87ed100f75f9def7d9cc36a32d0443"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 229532,
+      "sha256": "033ea5cb44784fc170b4baa6595389f95d494ced89d7ce5e53eb5896d9fb1824"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 188,
+      "sha256": "10a87a65f185b863f6dac10f534942ab798740dee2b68ab3f2fee6dc1a6a5c51"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13315,
+      "sha256": "16a3caa6b1a71ab9d5f59f76423f8d0c6dca4c4eabb5cf62923e790c206cdc70"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

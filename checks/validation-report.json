@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:43.035143+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "272c57733854aff938c629392a0ec997d5a33130478f7cad4d80f52174c3a5e3",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d7628f3ee2a18d80ed2ad94e30b6237d0db82149900e14d9073d2921c3ece553",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "1bbbf8d67c5a3da6608f91438bfd19d3be240a9d320e9d107c79578efe9c24af",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "d3e86fe3be1a7902fe26377a1970c0d4908a2e97ca521c348f5c75b2f0b91b16",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af208f37d4ceba8868552224b4ad0f080adaf5fbcd1d76ee83a3ce7090862cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0301-funky-house-piano-stabs-opening/z0301-funky-house-piano-stabs-opening-combined.mid",
+      "bytes": 6021,
+      "sha256": "bd9ad79fb32354d3542408c9b5204317c25b830d1975aa775be19dae98686834",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9911d5e158ef8cc3c73624caa8993a1282182d21f2f44e24e0e7cb4822d3e1ca",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3b4fcbf860eafa04f153cde01e9d43adb7f4fc2901983c529153fdd535052fd7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "e60d7661ae609b1dd8abb2c33179b9c9ebb1a721588f220d2bd9faffdd9d7a2b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b7d509b6c4f19110bc0d10a4c69e6a698abc3d18e2e0855e961ff2e70cc6795a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "40ddfad9cc806eb35356a8667d74a12b7961291fafd9e5dddf88f9f5fb8556cb",
+      "errors": []
+    },
+    {
+      "path": "midi/z0302-funky-house-piano-stabs-variation/z0302-funky-house-piano-stabs-variation-combined.mid",
+      "bytes": 6021,
+      "sha256": "cf6859612f09808c974d6d0c51b0970ff01857d5a9b44a86f8fbe8281f1346b2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "1ac013208ac3961dba5248c4735f4dda146c3edeea84b75195be0266344f1b9d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "288f91ab17c7775d67b0d2ecec957bcceec4e3416844c7e3942a8e476a4aa2df",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "a31eb850186e09f8452eea624d690176180f30a1dbc8b8e9d4ea223e4f289530",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "4ddcd55e5a409df5f2e52e271809654f3d6a0f365672dd393d8440cc0d0546bc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e0799586c6971edf853c533699c2ade8fa1f116b13513b55cd9b316a424740b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0303-funky-house-piano-stabs-contrast/z0303-funky-house-piano-stabs-contrast-combined.mid",
+      "bytes": 5987,
+      "sha256": "77c0ad52c631f9b672b4e6a33097ff4966457216f2cc6e4357ee2b2d08122897",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "83ffe1b2f0e2824f44932bbb744d251d3b44fe54459d60a43099a462dba015c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "676e65fe77d732b1392924e60c91041857749dcfad78fcf145eabeb979bafeaf",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/principal_motif.mid",
+      "bytes": 767,
+      "sha256": "93d4e2ba5ff6c1d589602858389eaa3da19329015ce589d05d3cea7acd3884f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "3e95df608eb89419a43d1cca5acd84d06122ad65b78d96e3e7750dd275472b85",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bf8097c8623b26afb8fc854e12e91f4e5ed9ee1d8511655d4f10c28c00a2c259",
+      "errors": []
+    },
+    {
+      "path": "midi/z0304-funky-house-piano-stabs-return/z0304-funky-house-piano-stabs-return-combined.mid",
+      "bytes": 5989,
+      "sha256": "71a3ca3e05f934699c7fd696b44a196278c4d01fa26df6ac34ce95acc4b2d489",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

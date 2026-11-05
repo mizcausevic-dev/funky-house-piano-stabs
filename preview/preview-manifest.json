@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/funky-house-piano-stabs-simple-synth-preview.mp3",
+  "preview_sha256": "a953668d0f9068515bf7d3878c06b86df2a9eddd3c3ca19abfef1b74b7e85580",
+  "source_midi_path": "midi/z0301-funky-house-piano-stabs-opening/z0301-funky-house-piano-stabs-opening-combined.mid",
+  "source_midi_sha256": "bd9ad79fb32354d3542408c9b5204317c25b830d1975aa775be19dae98686834",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0301",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.165745,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

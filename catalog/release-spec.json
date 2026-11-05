@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "funky-house-piano-stabs",
+  "display_name": "Funky House Piano Stabs Studies",
+  "brief_name": "Funky House Piano Stabs",
+  "creative_intention": "Original funky house piano stabs ideas with coordinated melodic and harmonic parts.",
+  "rhythmic_direction": "A composed rhythmic cell develops through introduction, statement, contrast and return.",
+  "palette": "Editable synth-oriented MIDI parts, low bass and mapped programmed drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack funky-house-piano-stabs",
+  "actual_tempo_bpm": 122,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "z0301",
+      "title": "Funky House Piano Stabs Opening",
+      "tonic": "G",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z0302",
+      "title": "Funky House Piano Stabs Variation",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z0303",
+      "title": "Funky House Piano Stabs Contrast",
+      "tonic": "C#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z0304",
+      "title": "Funky House Piano Stabs Return",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
