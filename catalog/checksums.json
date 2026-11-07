@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/funky-house-piano-stabs-midi.zip",
-      "bytes": 31756,
-      "sha256": "6f06d12de9a54f595c26a4cbdc9eda5da431a8e7a0aa6a4e87a5397f6b34b5ac"
+      "bytes": 32743,
+      "sha256": "bc9922866e945ca26713cbba3c3c501c93b14a55310f85ab1862d87531a4ac17"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "bef20a07b3ca0fc664160f479c938768cf46870eb821ac441f4db823a65f9f70"
+      "bytes": 10186,
+      "sha256": "500a0b11013b1ac57a88e75537ec6f96c5e2a71b29809827df2e3ac4e58fefd8"
     },
     {
       "path": "midi/z0301-funky-house-piano-stabs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "71a3ca3e05f934699c7fd696b44a196278c4d01fa26df6ac34ce95acc4b2d489"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/funky-house-piano-stabs-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "a953668d0f9068515bf7d3878c06b86df2a9eddd3c3ca19abfef1b74b7e85580"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3987,
-      "sha256": "51e4d924f13315bb8deacc73b95b8e8e668fbb61f16a1579534589b1ab9acd72"
+      "bytes": 4102,
+      "sha256": "d2994c076d9b25f85b3870d423cbe918c73d2d83360bf649af4785a21d4f4577"
     },
     {
       "path": "social/instagram/caption.txt",
